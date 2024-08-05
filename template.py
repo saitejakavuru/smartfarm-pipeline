@@ -5,7 +5,7 @@ import logging
 #logging string
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = 'smartfarm-pipeline'
+project_name = 'smartfarm_pipeline'
 
 list_of_files = [
     ".github/workflows/.gitkeep",
